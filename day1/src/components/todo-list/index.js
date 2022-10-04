@@ -27,6 +27,7 @@ const TodoList = () => {
 					<th>başlık</th>
 					<th>durum</th>
 					<th>Aksiyon</th>
+					<th><DarkMode /></th>
 				</tr>
 			</thead>
 		);
